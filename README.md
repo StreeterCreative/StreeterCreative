@@ -1,9 +1,6 @@
 - 👋 Hi, I’m @StreeterCreative
 - 👀 I’m interested in ...creative ways to collaborate or help each other. 
 
-
-# Comprehensive Code Snippets for Streeter Creative Strategies Projects
-
 ## Overview
 
 This repository contains a comprehensive collection of code snippets used across various projects under Streeter Creative Strategies. Each snippet is organized by project, with clear titles, descriptions, and usage instructions. This README provides an index for easy navigation and a summary of the project's impact on the respective industries.
